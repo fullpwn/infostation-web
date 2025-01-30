@@ -5,6 +5,8 @@
 html, body {
     background-color: black;
     font-family: tilden;
+    overflow: hidden
+
 }
 h1 {
     color: white;
