@@ -10,3 +10,13 @@ h1 {
     color: white;
     font-weight: normal;
 }
+.splash {
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+}
+.splashonsplash {
+    width: 50%;
+    height: 50%;
+}
