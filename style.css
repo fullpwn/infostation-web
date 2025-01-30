@@ -1,6 +1,12 @@
+@font-face {
+    font-family: tilden;
+    src: url(tilden.ttf);
+}
 html, body {
     background-color: black;
+    font-family: tilden;
 }
 h1 {
     color: white;
+    font-weight: normal;
 }
